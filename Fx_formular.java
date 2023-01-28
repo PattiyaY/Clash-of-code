@@ -25,11 +25,11 @@ public class Fx_formular {
 			/* a = 5, b = -2, amount of number = 3, numbers = 3 8 -1 
         	 * (formula : F(x) = a*x+b) 
         	 * input : 5
-        	 * 		   -2
-        	 * 		   3
-        	 * 		   3
-        	 * 		   8
-        	 * 		   -1
+        	 * 	   -2
+        	 * 	   3
+        	 * 	   3
+        	 * 	   8
+        	 * 	   -1
         	 * output : 13 38 -7
         	 */
         in.close();
